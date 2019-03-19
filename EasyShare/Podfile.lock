@@ -1,0 +1,25 @@
+PODS:
+  - GRDB.swift (2.10.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+
+DEPENDENCIES:
+  - GRDB.swift
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GRDB.swift
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  GRDB.swift: 9859cab1b990eac62ee550d3d2208ec1b44f76af
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+
+PODFILE CHECKSUM: 99ea10b20fe7c7e45ed3e3995a253f9648fc8082
+
+COCOAPODS: 1.5.0

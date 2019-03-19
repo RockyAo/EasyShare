@@ -1,0 +1,6 @@
+framework module Pods_EasyShareTests {
+  umbrella header "Pods-EasyShareTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
